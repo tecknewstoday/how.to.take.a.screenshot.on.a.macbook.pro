@@ -1,6 +1,6 @@
 # How to take a screenshot on a macbook pro ?
 
-[![How to take a screenshot on a macbook pro](pink.png)](https://icncomputer.com/how-to-take-a-screenshot-on-a-macbook-pro/)
+[![How to take a screenshot on a macbook pro](pink.png)](https://computer-solved.com/how-to-take-a-screenshot-on-a-macbook-pro/)
 
 Screenshots on the MacBook Pro are amazing tools for saving and sharing best moments from your conversations on social networking sites, favorite videos, bugs you desire to report, and so on. A screenshot is an idyllic way to show someone precisely what is on your Mac’s screen. Capturing screenshots on Mac computers or Mac OS X is utmost simple to do and there are several ways to snap an image you require. You can capture screenshots on complete screen or simply the part of it based on your needs. Screenshots which are taken will be automatically saved on your desktop in the .png file format. 
 
